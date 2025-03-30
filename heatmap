@@ -1,0 +1,8 @@
+{
+  "dataPoints": [
+    { "locationName": "R-1-1", "usage": 85 },
+    { "locationName": "R-2-1", "usage": 42 },
+    { "locationName": "R-3-1", "usage": 15 },
+    { "locationName": "R-3-7", "usage": 22 }
+  ]
+}
