@@ -1,9 +1,9 @@
 {
   "dataPoints": [
-    { "locationName": "R-4-7", "usage": 185 },
-    { "locationName": "R-1-1", "usage": 85 },
-    { "locationName": "R-2-1", "usage": 42 },
-    { "locationName": "R-3-1", "usage": 15 },
-    { "locationName": "R-3-7", "usage": 22 }
+    { "locationName": "AT-ABA-P1-R1", "usage": 185 },
+    { "locationName": "AT-ABA-P1-R3", "usage": 85 },
+    { "locationName": "AT-ABA-P1-R4", "usage": 42 },
+    { "locationName": "AT-ABA-P1-R5", "usage": 15 },
+    { "locationName": "AT-ABA-P1-R6", "usage": 22 }
   ]
 }
