@@ -1,5 +1,5 @@
 [
-    { "locationName": "AB-ABA-P1-R1", "visits": 500 } ,
-    { "locationName": "AB-ABA-P1-R2", "visits": 2500},
-    { "locationName": "AB-ABA-P4-R1", "visits": 5 }
+    { "locationName": "CYN-ABA-P1-R1", "visits": 500 } ,
+    { "locationName": "CYN-ABA-P1-R2", "visits": 2500},
+    { "locationName": "CYN-ABA-P4-R1", "visits": 5 }
 ]
