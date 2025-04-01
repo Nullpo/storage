@@ -1,5 +1,5 @@
-{
-    "AB-ABA-P1-R1": 500,
-    "AB-ABA-P1-R2": 2500,
-    "AB-ABA-P4-R1": 5
-  }
+[
+    { "locationName": "AB-ABA-P1-R1", "visits": 500 } ,
+    { "locationName": "AB-ABA-P1-R2", "visits": 2500},
+    { "locationName": "AB-ABA-P4-R1", "visits": 5 }
+]
