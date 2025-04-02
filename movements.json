@@ -1,0 +1,24 @@
+[
+    {
+      "sourceLocationName": "CYN-ABA-P1-R1",
+      "destinations": [
+        {
+          "locationName": "CYN-ABA-P1-R2",
+          "visits": 5
+        },
+        {
+          "locationName": "CYN-ABA-P1-R3",
+          "visits": 10
+        }
+      ]
+    },
+    {
+      "sourceLocationName": "CYN-ABA-P4-R1",
+      "destinations": [
+        {
+          "locationName": "CYN-ABA-P7-R1",
+          "visits": 3
+        }
+      ]
+    }
+  ]
